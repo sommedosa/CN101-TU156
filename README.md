@@ -40,7 +40,9 @@ Midterm	8	35% </br>
 Final	16	15% </br>
 
 เอกสารและตำราหลัก (Main texts) </br>
-  P. J. Deitel, H. M. Deitel, “C How to Program”, 5th ed., Pearson, 2007 </br>
+  Tony Gaddis, “Starting Out with Python”, 4th Global edition, Pearson, 2019 </br>
+  P. J. Deitel, H. M. Deitel, “C How to Program”, 5th ed., Pearson, 2007 </br> </br>
+  
 เอกสารและข้อมูลสำคัญ (Required readings/ course materials) </br>
   https://prog.ece.engr.tu.ac.th/ </br>
 
