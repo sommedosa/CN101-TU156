@@ -45,5 +45,6 @@ TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING**
 
   https://prog.ece.engr.tu.ac.th/ 
   
+  
+  
 [**CN101 & TU156 Exercise**](https://github.com/sommedosa/python/blob/master/README.md)
-[
