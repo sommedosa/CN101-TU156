@@ -41,9 +41,9 @@ TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING**
  1. Tony Gaddis, “Starting Out with Python”, 4th Global edition, Pearson, 2019 
  2. P. J. Deitel, H. M. Deitel, “C How to Program”, 5th ed., Pearson, 2007 
     
-**เอกสารและข้อมูลสำคัญ (Required readings/ course materials)** 
+**เอกสาร (Course materials)** 
 
-  https://prog.ece.engr.tu.ac.th/ 
+  https://prog.ece.engr.tu.ac.th/  </br></br>
   
   
   
