@@ -1,12 +1,11 @@
-# CN101-TU156
-
 **วพ.101 	การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น 
 CN101	INTRODUCTION TO COMPUTER PROGRAMMING  
 มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น
 TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING** 
 
-    หลักการพื้นฐานคอมพิวเตอร์ องค์ประกอบคอมพิวเตอร์การทำงานร่วมกับฮาร์ดแวร์และซอฟต์แวร์ การเขียนโปรแกรมภาษาคอมพิวเตอร์ การฝึกฝนการเขียนโปรแกรมคอมพิวเตอร์ 
+หลักการพื้นฐานคอมพิวเตอร์ องค์ประกอบคอมพิวเตอร์การทำงานร่วมกับฮาร์ดแวร์    และซอฟต์แวร์ การเขียนโปรแกรมภาษาคอมพิวเตอร์ การฝึกฝนการเขียนโปรแกรมคอมพิวเตอร์ 
     COMPUTER CONCEPTS, COMPUTER COMPONENTS: HARDWARE AND SOFTWARE INTERACTION, CURRENT PROGRAMMING LANGUAGE: PROGRAMING PRACTICES.
+    
 
 **สัปดาห์ที่ (Week)	รายละเอียด (Topic/ Content)**
 	
@@ -41,7 +40,6 @@ TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING**
 
  1. Tony Gaddis, “Starting Out with Python”, 4th Global edition, Pearson, 2019 
  2. P. J. Deitel, H. M. Deitel, “C How to Program”, 5th ed., Pearson, 2007 
- 3.   
+    
 **เอกสารและข้อมูลสำคัญ (Required readings/ course materials)** 
   https://prog.ece.engr.tu.ac.th/ 
-
