@@ -3,6 +3,7 @@
  มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น</br>
  TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING***  </br></br> 
 
+---------------------------
 
 #### คำอธิบายรายวิชา/Course Syllabus
 * หลักการพื้นฐานคอมพิวเตอร์ (Computer Concepts) 
@@ -42,7 +43,7 @@
 14. การใช้ข้อมูลชุด ชุดอักขระ  </br>
 15. การใช้ข้อมูลชุด ชุดอักขระ 
 
-</br> </br>
+</br> 
 | วิธีการประเมิน (Assessment methods) |  สัปดาห์ที่ประเมิน (Assessment week)|สัดส่วนการประเมิน(Proportion of assessment score)|
 |--|--|--|
 |Homework |2 - 7, 9 - 15|5%|
@@ -50,12 +51,12 @@
 |Midterm | 8 |35%|
 |Final  | 16 |45%|
 
-</br> </br>
+</br> 
 **เอกสารและตำราหลัก (Main texts)** </br>
    1. Tony Gaddis, “Starting Out with Python”, 4th Global edition, Pearson, 2019 
    2. P. J. Deitel, H. M. Deitel, “C How to Program”, 5th ed., Pearson, 2007  
 
-</br> </br>  
+</br>  
 **เอกสาร (Course materials)**  </br>
    - https://prog.ece.engr.tu.ac.th/  </br>
    - [CN101 & TU156 Exercise](https://github.com/sommedosa/Python-Programming) </br>
