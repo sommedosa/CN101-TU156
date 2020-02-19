@@ -4,15 +4,14 @@
  TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING***  </br></br> 
 
 
-### คำอธิบายรายวิชา/Course Syllabus
+#### คำอธิบายรายวิชา/Course Syllabus
 * หลักการพื้นฐานคอมพิวเตอร์ (Computer Concepts) 
 * องค์ประกอบคอมพิวเตอร์การทำงานร่วมกับฮาร์ดแวร์และซอฟต์แวร์ (Computer Components: Hardware and Software Interaction)
 * การเขียนโปรแกรมภาษาคอมพิวเตอร์ (Current Programming Language)
-* การฝึกฝนการเขียนโปรแกรมคอมพิวเตอร์ (Programming Practices) </br></br>
-
+* การฝึกฝนการเขียนโปรแกรมคอมพิวเตอร์ (Programming Practices)
 </br> </br>
-**สัปดาห์ที่ (Week)	รายละเอียด (Topic/ Content)**</br>
-	
+
+***สัปดาห์ที่ (Week)	รายละเอียด (Topic/ Content)***</br>
 1. อธิบายภาพรวมของรายวิชา  </br>
    - วิธีการสอน  </br>
    - วิธีการประเมินผล  </br>
@@ -41,7 +40,7 @@
 12. การใช้ข้อมูลแบบทูเพิล </br>
 13. การใช้ข้อมูลแบบทูเพิล  </br>
 14. การใช้ข้อมูลชุด ชุดอักขระ  </br>
-15. การใช้ข้อมูลชุด ชุดอักขระ  </br>
+15. การใช้ข้อมูลชุด ชุดอักขระ 
 
 </br> </br>
 | วิธีการประเมิน (Assessment methods) |  สัปดาห์ที่ประเมิน (Assessment week)|สัดส่วนการประเมิน(Proportion of assessment score)|
