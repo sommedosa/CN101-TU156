@@ -44,12 +44,13 @@
 15. การใช้ข้อมูลชุด ชุดอักขระ </br> 
 
 </br> 
-| วิธีการประเมิน (Assessment methods) |  สัปดาห์ที่ประเมิน (Assessment week)|สัดส่วนการประเมิน(Proportion of assessment score)| </br> 
-|--|--|--|</br> 
-|Homework |2 - 7, 9 - 15|5%|
-|Quiz  |6, 10, 12 |15%|
-|Midterm | 8 |35%|
-|Final  | 16 |45%|
+| วิธีการประเมิน (Assessment methods) |  สัปดาห์ที่ประเมิน (Assessment week)| สัดส่วนการประเมิน(Proportion of assessment score) |  
+|--|--|--|
+|Homework | 2 - 7, 9 - 15| 5% |
+|Quiz  | 6, 10, 12 | 15% |
+|Midterm | 8 | 35% |
+|Final  | 16 | 45% |
+
 
 </br> 
 **เอกสารและตำราหลัก (Main texts)** </br>
