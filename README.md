@@ -2,6 +2,7 @@
  CN101	INTRODUCTION TO COMPUTER PROGRAMMING  </br>
  มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น</br>
  TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING***  </br></br> 
+ 
 ---------------------------
 
 #### คำอธิบายรายวิชา/Course Syllabus
@@ -43,8 +44,8 @@
 15. การใช้ข้อมูลชุด ชุดอักขระ </br> 
 
 </br> 
-| วิธีการประเมิน (Assessment methods) |  สัปดาห์ที่ประเมิน (Assessment week)|สัดส่วนการประเมิน(Proportion of assessment score)|
-|--|--|--|
+| วิธีการประเมิน (Assessment methods) |  สัปดาห์ที่ประเมิน (Assessment week)|สัดส่วนการประเมิน(Proportion of assessment score)| </br> 
+|--|--|--|</br> 
 |Homework |2 - 7, 9 - 15|5%|
 |Quiz  |6, 10, 12 |15%|
 |Midterm | 8 |35%|
