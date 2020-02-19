@@ -45,7 +45,8 @@
 
 </br> 
 | วิธีการประเมิน (Assessment methods) |  สัปดาห์ที่ประเมิน (Assessment week)| สัดส่วนการประเมิน(Proportion of assessment score) |  
-|--|--|--|
+|:--:|:--:|:--:|
+
 |Homework | 2 - 7, 9 - 15| 5% |
 |Quiz  | 6, 10, 12 | 15% |
 |Midterm | 8 | 35% |
