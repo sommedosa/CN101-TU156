@@ -1,12 +1,15 @@
-# วพ.101 	การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น </br>
-# CN101	INTRODUCTION TO COMPUTER PROGRAMMING  </br>
-# มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น</br>
-# TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING**  </br></br> 
+## วพ.101 	การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น </br>
+## CN101	INTRODUCTION TO COMPUTER PROGRAMMING  </br>
+## มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น</br>
+## TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING**  </br></br> 
 
-## หลักการพื้นฐานคอมพิวเตอร์ องค์ประกอบคอมพิวเตอร์การทำงานร่วมกับฮาร์ดแวร์    และซอฟต์แวร์ การเขียนโปรแกรมภาษาคอมพิวเตอร์ การฝึกฝนการเขียนโปรแกรมคอมพิวเตอร์ </br>
-    COMPUTER CONCEPTS, COMPUTER COMPONENTS: HARDWARE AND SOFTWARE INTERACTION, CURRENT PROGRAMMING LANGUAGE: PROGRAMING PRACTICES.
+
+### คำอธิบายรายวิชา/Course Syllabus
+* หลักการพื้นฐานคอมพิวเตอร์ (Computer Concepts)
+* องค์ประกอบคอมพิวเตอร์การทำงานร่วมกับฮาร์ดแวร์และซอฟต์แวร์ (Computer Components: Hardware and Software Interaction)
+* การเขียนโปรแกรมภาษาคอมพิวเตอร์ (Current Programming Language)
+* การฝึกฝนการเขียนโปรแกรมคอมพิวเตอร์ (Programming Practices) </br>
     
-
 **สัปดาห์ที่ (Week)	รายละเอียด (Topic/ Content)**
 	
 1. อธิบายภาพรวมของรายวิชา วิธีการสอน วิธีการประเมินผล ลักษณะงานที่ได้รับมอบหมาย 
