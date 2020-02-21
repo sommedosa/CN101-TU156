@@ -1,4 +1,4 @@
-***CN101:	Introduction to Computer Programming --- (วพ.101 	การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น):  </br>
+***CN101:	Introduction to Computer Programming --- (วพ.101 	การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น)  </br>
 TU156:	Introduction to Computers and Programmings --- (มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น)***  </br></br> 
  
 ---------------------------
