@@ -1,7 +1,5 @@
-***วพ.101 	การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น </br>
- CN101	INTRODUCTION TO COMPUTER PROGRAMMING  </br>
- มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น</br>
- TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING***  </br></br> 
+***วพ.101 	การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น , CN101	INTRODUCTION TO COMPUTER PROGRAMMING </br>
+ มธ.156	คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น, TU156	INTRODUCTION TO COMPUTERS AND PROGRAMMING***  </br></br> 
  
 ---------------------------
 
