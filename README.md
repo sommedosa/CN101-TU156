@@ -62,7 +62,8 @@
 
 **เอกสาร (Course materials)**  </br>
    - https://prog.ece.engr.tu.ac.th/  </br>
-   - [CN101 & TU156 Exercise](https://github.com/sommedosa/Python-Programming) </br>
+   - https://github.com/sommedosa/Python-Programming </br>
+   
   
   
   
