@@ -45,8 +45,8 @@ TU156:	Introduction to Computers and Programmings --- (มธ.156	คอมพ�
 
 | วิธีการประเมิน(Assessment methods) | สัปดาห์ที่ประเมิน(Assessment week) | สัดส่วนการประเมิน(Proportion of assessment score) |
 |:--:|:--:|:--:|
-|Homework | 2 - 7, 9 - 15| 5% |
-|Quiz  | 6, 10, 12 | 15% |
+|Homework | 2 - 7, 9 - 15| 10% |
+|Quiz  | 6, 10, 12 | 10% |
 |Midterm | 8 | 35% |
 |Final  | 16 | 45% |
 
